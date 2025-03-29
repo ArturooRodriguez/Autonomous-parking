@@ -16,3 +16,10 @@ Questo progetto mira ad addestrare un agente, rappresentato da un'auto virtuale,
 - **ML-Agents:** Libreria di Unity per l'addestramento degli agenti tramite tecniche di apprendimento automatico.
 - **Environment Conda:** Ambiente virtuale per gestire le dipendenze dei pacchetti Python necessari all'addestramento.
 - **TensorBoard:** Strumento per la visualizzazione grafica dei risultati dell'addestramento.
+
+## Video dimostrazione 
+### Addestramento dell'agente dopo 700 mila step 
+[Guarda il video](video_700mila_step.mp4)
+
+### Addestramento dell'agente dopo 2.5 milioni di step, risultato finale 
+[Guarda il video](video2.5Milioni_step.mp4)
