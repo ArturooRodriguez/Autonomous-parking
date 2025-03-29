@@ -22,4 +22,4 @@ Questo progetto mira ad addestrare un agente, rappresentato da un'auto virtuale,
 [Guarda il video](video_700mila_step.mp4)
 
 ### Addestramento dell'agente dopo 2.5 milioni di step, risultato finale 
-[Guarda il video](video2.5Milioni_step.mp4)
+[Guarda il video](video_2.5Milioni_step.mp4)
